@@ -1,4 +1,4 @@
-owner: scratchstatus
+owner: scratchsuite
 repo: backend
 
 # Add your sites here
@@ -25,7 +25,7 @@ sites:
 
 status-website:
   baseUrl: /backend
-  logoUrl: https://scratchstatus.github.io/assets/upptime-icon.svg
+  logoUrl: https://scratchsuite.github.io/assets/upptime-icon.svg
   name: Scratch Status
   introTitle: "Scratch Status"
   introMessage: Use this site to see if scratch is down. Scratch is developed by the Lifelong Kindergarten Group at the MIT Media Lab. See [scratch.mit.edu](https://scratch.mit.edu). ScratchStatus is not affilated in any way with Scratch. Ask 9gr on Scratch for help.
