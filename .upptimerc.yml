@@ -30,12 +30,13 @@ status-website:
   introTitle: "Scratch Status"
   introMessage: Use this site to see if scratch is down. Scratch is developed by the Lifelong Kindergarten Group at the MIT Media Lab. See [scratch.mit.edu](https://scratch.mit.edu). ScratchStatus is not affilated in any way with Scratch. Ask 9gr on Scratch for help.
   navbar:
+    - title: Frontend
+      href: /frontend
     - title: Backend
       href: /backend
-    - title: Frontend
-      href: /
+    - title: Scratcher-Made Websites
+      href: /ugc-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customBodyHtml: "<iframe src='/assets/topbar.html' height='65px' width='100%' style='border-width:0; overflow:hidden;'></iframe>"
 i18n:
   footer: This page is powered by [Upptime](https://upptime.js.org) and created for use for everybody at [Scratch](https://scratch.mit.edu). If you want to help improve this, comment on [my profile](https://scratch.mit.edu/users/9gr)
