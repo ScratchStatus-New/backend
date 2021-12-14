@@ -1,7 +1,7 @@
 url: https://scratch.mit.edu/site-api
-status: down
-code: 503
-responseTime: 65
-lastUpdated: 2021-12-14T10:15:40.769Z
+status: up
+code: 404
+responseTime: 303
+lastUpdated: 2021-12-14T10:59:41.749Z
 startTime: Sat Mar 13 2021 09:52:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
